@@ -8,7 +8,6 @@ public class Test04Java1 {
 		
 		
 		
-		
 		int result=rtnInt();
 		System.out.println("입력하신 숫자는 "+result+"입니다");
 		
